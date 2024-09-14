@@ -42,17 +42,10 @@ In this game, two players take on the roles of opposing factions: the **Axis** a
 
 3. **Compile the game** (assuming it's written in Java or your preferred language):
    ```bash
-   javac Memoir44Game.java
+   javac Main.java
    ```
 
 4. **Run the game**:
    ```bash
-   java Memoir44Game
+   java Main
    ```
-
-## Future Improvements
-
-- Adding more complex AI for single-player mode.
-- Introducing more detailed graphics or transitioning the console UI to a GUI.
-- Implementing additional scenarios and unit types for more variety.
-
