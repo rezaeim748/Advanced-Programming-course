@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="665.0" y="0.0">Template.GameLoop</node>
+    <node x="988.0" y="0.0">Template.ThreadPool</node>
+    <node x="350.0" y="0.0">Template.GameFrame</node>
+    <node x="1210.0" y="0.0">Template.Game</node>
+    <node x="0.0" y="0.0">Template.GameState</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="591.5" y="363.57142857142856" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
