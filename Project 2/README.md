@@ -1,5 +1,5 @@
 
-# Project Title: University Management System
+# University Management System
 
 ## Overview
 This project implements a basic university management system designed to automate various student and faculty activities. The system is divided into multiple phases. Each phase builds upon the previous one, adding new features and improvements.
@@ -32,6 +32,3 @@ The second phase introduced backend functionality to handle user data and except
    javac *.java
    java Main
    ```
-
-## Future Enhancements
-The next phase (not implemented yet) will introduce network capabilities to enable communication between multiple instances of the application. 
