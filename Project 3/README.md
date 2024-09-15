@@ -1,5 +1,5 @@
 
-# Project Title: Plants vs Zombies
+# Plants vs Zombies
 
 ## Overview
 This project is an implementation of the popular "Plants vs Zombies" game. The goal of the game is for the player to protect their home from waves of zombies by planting various plants that can either attack zombies or act as defensive barriers.
@@ -21,7 +21,6 @@ The game includes two difficulty modes:
 ### Class Diagrams
 The project includes several important design diagrams, which outline the architecture and interactions within the game:
 - **Component Package Simple**: ![Component Package Simple](Class%20Diagrams/Component%20Package%20Simple.jpg)
-- **GUI Package**: ![GUI Package](Class%20Diagrams/Gui%20Package.jpg)
 - **Network Package**: ![Network Package](Class%20Diagrams/Network%20Package.jpg)
 - **Music Player Package**: ![Music Player Package](Class%20Diagrams/MusicPlayer%20Package.jpg)
 
@@ -47,10 +46,3 @@ The project includes several important design diagrams, which outline the archit
 - Select plants from the plant menu and place them on the grid.
 - Watch for incoming zombie waves and defend your home!
 
-## Future Enhancements
-- **Multiplayer Mode**: Allow multiple players to compete and compare scores in real-time.
-- **Additional Plant Types**: Introducing more varieties of plants with unique abilities.
-- **More Zombie Types**: New zombie types with special abilities to increase the game's complexity.
-
-## Credits
-This project was developed as part of the Advanced Programming course at AUT during the Winter term of 1399.
