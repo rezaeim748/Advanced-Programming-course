@@ -21,8 +21,6 @@ The game includes two difficulty modes:
 ### Class Diagrams
 The project includes several important design diagrams, which outline the architecture and interactions within the game:
 - **Component Package Simple**: ![Component Package Simple](Class%20Diagrams/Component%20Package%20Simple.jpg)
-- **Network Package**: ![Network Package](Class%20Diagrams/Network%20Package.jpg)
-- **Music Player Package**: ![Music Player Package](Class%20Diagrams/MusicPlayer%20Package.jpg)
 
 ### Saving and Loading
 - The game allows saving the progress after each level. The player can resume the game later by loading the saved state.
