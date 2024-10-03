@@ -1,7 +1,7 @@
 
-# Advanced Programming Projects
+# Advanced Programming Projects (Java)
 
-This repository contains three projects developed as part of the Advanced Programming course, each demonstrating object-oriented programming concepts and game development.
+This repository contains three projects developed as part of the Advanced Programming course, each demonstrating object-oriented programming concepts and game development, all implemented in Java.
 
 ## Projects Included
 
